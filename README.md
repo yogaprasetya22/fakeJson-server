@@ -20,3 +20,8 @@ ubah untuk menjanlankan json-server di package.json
     "start": "json-server --watch <nama_file>.json"
   }
 ```
+  
+  run
+  ```sh
+  yarn start
+  ```
